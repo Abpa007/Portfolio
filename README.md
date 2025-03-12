@@ -1,12 +1,79 @@
-# React + Vite
+Portfolio Website - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built using React and Vite to showcase projects, skills, and achievements.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fast performance with Vite’s lightning-fast bundling.
 
-## Expanding the ESLint configuration
+Modern design optimized for desktop and mobile.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Reusable components for easy maintenance.
+
+Dark/Light mode support (optional)
+
+Contact form with email integration.
+
+SEO friendly structure.
+
+🛠️ Technologies Used
+
+React (Component-based UI)
+
+Vite (Build tool for faster development)
+
+Tailwind CSS (Optional, for styling)
+
+React Router (Optional, for navigation)
+
+🔧 Setup Instructions
+
+Clone the repository:
+
+git clone https://github.com/yourusername/your-portfolio.git
+cd your-portfolio
+
+Install dependencies:
+
+npm i
+
+Run the development server:
+
+npm run dev
+
+Build for production:
+
+npm run build
+
+Preview production build:
+
+npm run preview
+
+🖼️ Folder Structure
+
+/your-portfolio
+│
+├── /src
+│   ├── /components
+│   ├── /pages
+│   ├── /assets
+│   └── main.jsx
+│
+├── /public
+│
+└── package.json
+
+✨ Future Improvements
+
+Add animations and transitions
+
+Improve accessibility (ARIA tags, keyboard navigation)
+
+Implement a blog or project details page
+
+Add backend (optional) for form submissions or CMS integration
+
+📌 Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request
+
