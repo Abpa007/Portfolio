@@ -97,10 +97,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ⭐ **Show some love — give this repo a star if you find it useful!**
