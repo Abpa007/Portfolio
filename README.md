@@ -3,7 +3,7 @@
 
 ## 🌐 LIVE DEMO
 
-🔗 **[Click here to view my live portfolio](https://beautiful-crisp-aecedb.netlify.app/)**
+🔗 **[Click here to view my live portfolio](https://beautiful-crisp-aecedb.netlify.app/)** ----- https://beautiful-crisp-aecedb.netlify.app
 
 ---
 
