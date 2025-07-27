@@ -120,7 +120,3 @@ If you find this project helpful, please ⭐ star this repository to support and
 ---
 
 *Made with ❤️ by Abhay Panchal*
-
-```
-and job readiness efficiently**.
-```
